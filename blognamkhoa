@@ -474,7 +474,7 @@ mark {
     width: 16px
 }
 .blog-list-container .item-content {
-    font-size: 95%;
+    font-size: 75%;
     line-height: 1.3em
 }
 .blog-list-container .item-thumbnail {
@@ -482,7 +482,7 @@ mark {
     margin: 2px 5px 5px 0
 }
 .blog-list-container .item-time {
-    font-size: 95%;
+    font-size: 75%;
     font-style: italic;
     clear: left
 }
@@ -837,7 +837,7 @@ div.gsc-control {
 #uds-searchControl .gs-result a.gs-visibleUrl,
 #uds-searchControl .gs-result .gs-visibleUrl {
     line-height: 1.3em;
-    font-size: 95%
+    font-size: 75%
 }
 #uds-searchControl .gs-result .gs-snippet {
     margin: .25em 0;
@@ -911,23 +911,23 @@ div.clear {
     clear: both
 }
 .label-size-1 {
-    font-size: 80%;
+    font-size: 70%;
     filter: alpha(80);
     opacity: .8
 }
 .label-size-2 {
-    font-size: 90%;
+    font-size: 70%;
     filter: alpha(90);
     opacity: .9
 }
 .label-size-3 {
-    font-size: 100%
+    font-size: 70%
 }
 .label-size-4 {
-    font-size: 120%
+    font-size: 70%
 }
 .label-size-5 {
-    font-size: 160%
+    font-size: 70%
 }
 .cloud-label-widget-content {
     text-align: justify
@@ -1240,7 +1240,7 @@ img.gsc-branding-img-noclear {
 }
 .Stats .counter-wrapper {
     display: inline-block;
-    font-size: 24px;
+    font-size: 16px;
     font-weight: bold;
     height: 30px;
     line-height: 30px;
